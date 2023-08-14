@@ -1,3 +1,30 @@
+
+
+
+
+
+**Summary**
+Based on a past wedding app I reacted for my Sister In-Laws wedding. This is a react-native app powered by firebase. Using a boilerplate template, its a custom app where people upload photos to your wedding app and they are all then in 1 place. It's about 2-3 days of work and could be updated in pinch to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # react-native-firebase-boilerplate
 ## Boilerplate for React Native Firebase apps
 
